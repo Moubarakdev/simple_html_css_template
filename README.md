@@ -1,1 +1,1 @@
-# MAQUETTE TRES SIMPLISTE
+Simple html css template for Beginner
